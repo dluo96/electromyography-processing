@@ -1,2 +1,2 @@
-# Bioelectronics_coursework
-Electromyography (EMG)
+# Electromyography-processing
+Bioelectronics coursework on EMG.
